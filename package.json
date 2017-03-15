@@ -23,11 +23,11 @@
     "url": "https://github.com/TooTallNate/node-agent-base/issues"
   },
   "devDependencies": {
-    "mocha": "2",
-    "ws": "0.8.0"
+    "mocha": "3",
+    "ws": "2.2.1"
   },
   "dependencies": {
     "extend": "~3.0.0",
-    "semver": "~5.0.1"
+    "semver": "~5.3.0"
   }
 }
